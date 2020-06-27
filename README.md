@@ -28,7 +28,11 @@ func okAlert(title: String, message: String)
     present(alertController, animated: true)
 }
 ```
+يمكنك فقط استدعاء الدالة من خلال كتابة: 
 
+```Swift
+okAlert(title: "X Wins!", message: "مبرووووك X 😍")
+```
 </div>
 
 آخر موعد لرفع الكود\
