@@ -13,20 +13,25 @@
 
 # التمرين الاول 
 1. قم بعمل اول مشروع  xcode لك🤩💻
-
-2.  قم بعمل 
+2. قم بعمل التالي كما موضح في المثال
 <ul>
 <li> UIButton  </li>
  <li>  UITextField  </li>
  <li> UIlabel </li>
   <li> صوره </li>
 </ul>
- كما موضع في المثال
+ 
 <img src="/cw5part1.png" width="200px">
 
 
 # التمرين الثاني 
-1.   IBoutlet كـ  ViewController في TextField و Label قم برط كل 
+1.   ViewController  قم برط  التالي  مع  
+<ul>
+<li> UIButton  </li>
+ <li>  UITextField  </li>
+ <li> UIlabel </li>
+</ul>
+ 
 2. IBAction كـ  log in button قم برط 
 3. TextField و Labelعند الضغط علي الزر سوف تتغيرال 
 
