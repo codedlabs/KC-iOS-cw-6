@@ -3,42 +3,32 @@
 
 #  التمرين الخامس
  
-قم بلصق مجلد التمرين الأول (Sign in ) هنا
+قم بلصق مجلد التمرين الأول 
  
 ### خطوات 
 
-1. افتح رابط الواجب من [هنا](https://github.com/kuwaitcodes/ios-cw-5)
-2. قم بعمل Fork للمرشروع
-3.قم بفتح الواجب عن طريق Open in GitHub Desktop  
-4.  قم بإنشاء مشروع جديد بالـ Xcode
-5. قم بتطبيق الـ **XO** 
-6. الفيديوهات  موجوده [هنا](https://app.code.kw/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%8A%D9%81%D9%88%D9%86-%D9%85%D8%B9-%D8%B3%D9%88%D9%8A%D9%81%D8%AA-Swift-KFAS/ios-%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86/ios-x-o/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%88%D8%A7%D8%AC%D9%87%D8%A9-x-o) 
+1. قم بعمل Fork للمرشروع
+2. قم بفتح الواجب عن طريق Open in GitHub Desktop  
+3.  قم بإنشاء مشروع جديد بالـ Xcode
 
-### بونص!!
-1. قم بوضع صورة **Image**  
-2. قم بجعل تصميم اللعبه اجمل 🤩
+# التمرين الاول 
+1.  🤩💻 لك  Xcode  قم بعمل اول مشروع
+2. و وضع صوره  كما موضح في المثال  UILabel و UITextField  و UIBUtton قم بعمل بوضع 
+
+# التمرين الثاني 
+1.   IBoutlet كـ  ViewController في TextField و Label قم برط كل 
+2. IBAction كـ  log in button قم برط 
+3. TextField و Labelعند الضغط علي الزر سوف تتغيرال 
+
+# التمرين الثالث
+1.  قم بعمل المثال التالي 
 
 ### Alert View
 <div dir="ltr">
 
-```Swift
-func okAlert(title: String, message: String)
-{
-    let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
-    let okAction = UIAlertAction(title: "Ok", style: .cancel)
-    alertController.addAction(okAction)
-    present(alertController, animated: true)
-}
-```
-يمكنك فقط استدعاء الدالة من خلال كتابة: 
-
-```Swift
-okAlert(title: "X Wins!", message: "مبرووووك X 😍")
-```
-</div>
 
 آخر موعد لرفع الكود\
-30/6/2020
+29/9/2020
 
 
 </div>
