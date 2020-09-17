@@ -14,7 +14,8 @@
 # التمرين الاول 
 1.  🤩💻 لك  Xcode  قم بعمل اول مشروع
 2. و وضع صوره  كما موضح في المثال  UILabel و UITextField  و UIBUtton قم بعمل بوضع 
-![iOS](https://github.com/kuwaitcodes/ios-cw-5/blob/master/cw5part1.png)
+<img src="/cw5part1.gif" width="200px">
+
 # التمرين الثاني 
 1.   IBoutlet كـ  ViewController في TextField و Label قم برط كل 
 2. IBAction كـ  log in button قم برط 
@@ -22,7 +23,7 @@
 
 # التمرين الثالث
 1.  قم بعمل المثال التالي 
-![iOS](https://github.com/kuwaitcodes/ios-cw-5/blob/master/cw5part3.gif)
+<img src="/cw5part3.gif" width="200px">
 
 <div dir="ltr">
 
