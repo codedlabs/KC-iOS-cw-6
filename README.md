@@ -14,7 +14,7 @@
 # التمرين الاول 
 1.  🤩💻 لك  Xcode  قم بعمل اول مشروع
 2. و وضع صوره  كما موضح في المثال  UILabel و UITextField  و UIBUtton قم بعمل بوضع 
-<img src="/Cw5part1.gif" width="200px">
+<img src="/cw5part1.png" width="200px">
 
 # التمرين الثاني 
 1.   IBoutlet كـ  ViewController في TextField و Label قم برط كل 
