@@ -51,5 +51,4 @@ class="prettyprint">.resizable()
 </p>
 <p>
 <strong>						Hint: You can use .renderingMode</strong>
-<img src="images/image1.gif" width="" alt="alt_text" title="image_tooltip">
 </p>
