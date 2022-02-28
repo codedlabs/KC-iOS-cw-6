@@ -17,7 +17,7 @@
 
 
 
-```bash
+```swift
 Image("Background")
 إسم الصورة 
 ```
@@ -31,7 +31,7 @@ Image("Background")
 
 
 
-```bash
+```swift
 .resizable()
 .scaledToFit()
 .frame(width:#, height:#, alignment: .center)
