@@ -53,6 +53,7 @@ Image("Background")
 2. اعرض الصوره بستخدام scaledToFit()
 3. اعرض فيلمين آخرين أسفلها بشكل دائري
 
+<img width="326" alt="Screen Shot 2022-02-22 at 11 41 14 PM" src="https://user-images.githubusercontent.com/56195895/155989759-c4a4e477-800f-44d9-996a-dd9d26e3ece0.png">
 <p dir="rtl">
 <strong>بونص✨: اضف صوره من غير خلفيه و قم بتغير لونها </strong></p>
 
