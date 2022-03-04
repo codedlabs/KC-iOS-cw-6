@@ -58,5 +58,6 @@ Image("Background")
 3.قم بتصميم الشكل التالي 
 
 
-
+<div dir="rtl">
 <img src="ui.png" width="200" alt="alt_text" title="image_tooltip">
+</div>
