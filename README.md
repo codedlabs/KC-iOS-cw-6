@@ -43,19 +43,20 @@ Image("Background")
 
 ---
 
-<p dir="rtl">
-التمرين</p>
+## تمرين
 
 
 
+1.قم بانشاء تطبيق جديد باسم Instagram
 
-1. اضف ٣ صور أفلامك المفضلة 
-2. اعرض الصوره بستخدام scaledToFit()
-3. اعرض فيلمين آخرين أسفلها بشكل دائري
 
-<img width="326" alt="Screen Shot 2022-02-22 at 11 41 14 PM" src="https://user-images.githubusercontent.com/56195895/155989759-c4a4e477-800f-44d9-996a-dd9d26e3ece0.png">
-<p dir="rtl">
-<strong>بونص✨: اضف صوره من غير خلفيه و قم بتغير لونها </strong></p>
+ 
+2.قم بإضافة الصور داخل ملف الAssets
 
-<p dir="rtl">
-Hint: You can use .renderingMode
+
+ 
+3.قم بتصميم الشكل التالي 
+
+
+
+<img src="ui.png" width="200" alt="alt_text" title="image_tooltip">
